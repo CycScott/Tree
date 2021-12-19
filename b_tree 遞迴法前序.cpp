@@ -72,4 +72,3 @@ void pre( btree ptr )
         pre(ptr->right);
     }
 }
-
